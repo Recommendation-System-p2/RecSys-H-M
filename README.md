@@ -1,1 +1,1 @@
-# 🛍️ H&M Personalized Fashion Recommendations - EDA
+# 🛍️ H&M Personalized Fashion Recommendations
