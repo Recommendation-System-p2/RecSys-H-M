@@ -1,6 +1,6 @@
 # 🛍️ Recsys H&M - Personalized Fashion Recommendations
 
-![License](https://img.shields.io/github/license/yourusername/recsys-hm)
+![License](https://img.shields.io/github/license/sandeepkrpalit/recsys-hm)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Kaggle](https://img.shields.io/badge/Kaggle-H%26M%20RecSys-green)
 
