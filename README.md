@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Kaggle](https://img.shields.io/badge/Kaggle-H%26M%20RecSys-green)
 
-This repository contains my end-to-end solution for the [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations) Kaggle competition. The goal is to recommend fashion articles to customers based on their purchase history.
+This repository contains end-to-end solution for the [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations) Kaggle competition. The goal is to recommend fashion articles to customers based on their purchase history. We have started with basic cleanup and Exploratory data analysis. We will keep you update with our work.
 
 ---
 
