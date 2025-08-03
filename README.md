@@ -1,4 +1,4 @@
-# 🛍️ Recsys H&M - Personalized Fashion Recommendations
+## 🛍️ Recsys H&M - Personalized Fashion Recommendations
 
 ![License](https://img.shields.io/github/license/Recommendation-System-p2/RecSys-H-M)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -9,14 +9,11 @@ This repository contains end-to-end solution for the [H&M Personalized Fashion R
 ---
 
 ## Table of Contents
-
-- [🛍️ Recsys H\&M - Personalized Fashion Recommendations](#️-recsys-hm---personalized-fashion-recommendations)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Dataset](#dataset)
-  - [Approaches](#approaches)
-  - [Exploratory Data Analysis](#exploratory-data-analysis)
-  - [Models](#models)
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Approaches](#approaches)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Models](#models)
 
 ---
 
