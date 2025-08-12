@@ -56,4 +56,5 @@ The pipeline includes:
 
 ## Models
 
-- Will start with a baseline model.
+- We began with a Popularity-based Recommendation model.
+- Our next step is to develop Collaborative Filtering models to further enhance the recommendations.
